@@ -1,0 +1,22 @@
+@charset "UTF-8";
+body{background-color: azure;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{color: cadetblue;
+}
+#principal{
+    text-align: center;
+    background-color: chartreuse;
+    color:black;
+}
+h2{color: cadetblue;
+}
+.básico{color: brown;
+}
+.intemediário{color: darkslategrey;
+}
+.avançado{color: darkgoldenrod;
+
+}
+
+
